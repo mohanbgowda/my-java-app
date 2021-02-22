@@ -20,3 +20,9 @@ for i in range(len(X)):
 
 for r in result:
    print(r)
+
+
+
+
+
+   this is the program where this type of program wil use in the numpy 
