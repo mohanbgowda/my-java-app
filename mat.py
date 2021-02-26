@@ -25,4 +25,11 @@ for r in result:
 
 
 
-   this is the program where this type of program wil use in the numpy 
+   this is the program where this type of program wil use in the numpy
+
+
+
+
+
+
+   i start learning this matrix from today it was little easy for learning46954372743
