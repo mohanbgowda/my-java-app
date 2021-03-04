@@ -27,3 +27,6 @@ public class SwapNumbers {
 
 
 this program we can modify at anytime
+
+
+compare to java and python only syntax matters
